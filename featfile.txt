@@ -1,0 +1,3 @@
+This is to test feature file
+
+in develop file i need add more info about how to go up down right left etc at present im using arrow and enter keys for that . but we have other way
