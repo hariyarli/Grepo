@@ -1,0 +1,14 @@
+To work on vi editor
+write vi <file_name>
+after the editor opens press i or a - without doing that you can't type anything
+i- insert
+a- append
+type what info you want to enter in vi editor . After you are done with it
+
+ press esc button . it will take you out from insert/append mode
+
+then press colon(:) and wq <:wq> it is to  save the file and quit.
+
+when you press the colon it will take you to the bottom of the page.
+
+
